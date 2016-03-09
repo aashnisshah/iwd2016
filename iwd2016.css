@@ -1,0 +1,49 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #efefef;
+}
+
+.header {
+	font-size: 6em;
+	font-family: 'Viga', sans-serif;
+	color: #1F1C0D;
+}
+
+#content {
+	margin: 0px auto;
+	text-align: center;
+	padding-top: 24%;
+	vertical-align: middle;
+	position: relative;
+	height: 100%;
+	background-size: 100% 100%;
+}
+
+#second-content {
+	font-size: 18px;
+	color: #000000;
+}
+
+#quotes {
+	width: 75%;
+	margin: 0px auto;
+	padding: 20px;
+	position: relative;
+	font-size: 3em;
+	font-family: 'Viga', sans-serif;
+}
+
+#quotes h2{	
+}
+
+#first, #second, #third, #fourth {
+	display: none;
+}
+
+#zero, #one, #two, #three, #four, #five, #six, #seven {
+	position: relative;
+}

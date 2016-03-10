@@ -10,4 +10,4 @@ My initial inspiration was to see if I could create a parallax-styled effect on 
 4. See a quote at the bottom
 5. Scroll back to the top, then back to the bottom to 'reset' the quotes, and see a different one
 
-Feel free to add your own quotes!
+Feel free to add your own quotes by making a pull request!
